@@ -1,0 +1,15 @@
+The current investigation consulted on the following resources:
+
+1. Convert Tweepy Status object into JSON (https://stackoverflow.com/questions/27900451/convert-tweepy-status-object-into-json)
+
+2. Loading and parsing a JSON file with multiple JSON objects in Python (https://stackoverflow.com/questions/12451431/loading-and-parsing-a-json-file-with-multiple-json-objects-in-python)
+
+3. Structure of Tweepy Status Object Json (https://gist.github.com/dev-techmoe/ef676cdd03ac47ac503e856282077bf2)
+
+4. Pandas Left Join and Update Existing Column (https://stackoverflow.com/questions/30045086/pandas-left-join-and-update-existing-column)
+
+5. Idiomatic Clip on Quantile for DataFrame (https://stackoverflow.com/questions/45721037/idiomatic-clip-on-quantile-for-dataframe)
+
+6. Datetime dtypes in Pandas read_csv (https://stackoverflow.com/questions/21269399/datetime-dtypes-in-pandas-read-csv)
+
+7. Stop Jupyter Notebook from Printing Warnings (https://stackoverflow.com/questions/33572118/stop-jupyter-notebook-from-printing-warnings-status-updates-to-terminal)
