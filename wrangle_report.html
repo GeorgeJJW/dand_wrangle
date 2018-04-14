@@ -11814,6 +11814,7 @@ div#notebook {
 <li>Missing information for <em>doggo</em>, <em>floofer</em>, <em>pupper</em>, and <em>puppo</em> columns are denoted as "None", instead of "NaN".</li>
 <li>Erroneous datatypes for <em>timestamp</em>, <em>retweeted_status_id</em>, <em>retweeted_status_user_id</em>, and <em>retweeted_status_timestamp</em> columns.</li>
 <li>A number of tweets were not original ratings, as they were either replies or retweets.</li>
+<li>Some tweets had decimals in their ratings (eg. 9.75/10), and these ratings were not extracted properly.</li>
 <li>Some tweets had two occurrences of "#/#" numbers in their text, but the wrong set of "#/#" numbers were extracted as the dog ratings.</li>
 <li>Two tweets had ratings of 0 (they were about plagiarism).</li>
 </ul>
